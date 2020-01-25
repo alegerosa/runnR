@@ -1,0 +1,14 @@
+Package: runnR
+Type: Package
+Title: Functions for runners
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <hello@alegerosa.com>
+Description: Easily convert from minutes per mile to minutes per kilometer (and viceversa coming soon!).
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports:
+  lubridate,
+  stringr
+RoxygenNote: 7.0.2
